@@ -1,0 +1,4 @@
+1.Buka Rar/Zip Folder umkmjepara
+2.Import Database dalam folder database dengan nama db_umkm
+3.Simpan folder umkmjepara kedalam folder htdocs
+4.Buka website kemudian ketikan localhost/umkmjepara
